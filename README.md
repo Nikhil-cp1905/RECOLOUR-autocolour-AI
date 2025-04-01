@@ -5,7 +5,6 @@
 ### Overview
 This project introduces a deep learning-based automatic image colorization model. Our method leverages convolutional neural networks to predict realistic colors for grayscale images. Additionally, we offer real-time, user-guided image colorization with learned deep priors, as presented in our SIGGRAPH 2017 work.
 
-![Teaser Image](http://richzhang.github.io/colorization/resources/images/teaser4.jpg)
 
 ---
 
@@ -58,10 +57,8 @@ For details on model usage, refer to [demo_release.py](demo_release.py). The pro
 
 ---
 
-## Original Implementation (Caffe Branch)
-The original Caffe implementation includes training, testing, and additional representation learning tests with AlexNet. This version is no longer supported but can be accessed in the [Caffe branch](https://github.com/richzhang/colorization/tree/caffe).
 
----
+
 
 
 
